@@ -1,2 +1,2 @@
 # git_learning26
-Author - Kasish
+Author - Kasish Shaw
